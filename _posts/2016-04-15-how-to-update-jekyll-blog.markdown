@@ -26,10 +26,14 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 
 
-＃ write new blog and update to github
+# write new blog and update to github #update locally
 
 git build
 git serve
 
 git add .
 git commit -m "update"
+
+# push to github master
+
+git push origin master
