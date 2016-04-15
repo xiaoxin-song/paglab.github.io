@@ -11,9 +11,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 
-author: 
+author : 
   name: kang Yu
   email: ""
+  twitter_username: ""
 
 
 # Build settings
@@ -21,3 +22,5 @@ markdown: kramdown
 highlighter: pygments
 
 
+gems:
+  - jekyll-sitemap
