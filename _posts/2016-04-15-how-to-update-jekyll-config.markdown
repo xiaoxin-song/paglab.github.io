@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to update jekyll blog!"
+title:  "how to update jekyll config!"
 date:   2016-04-15 19:00:49
 categories: jekyll update
 ---
