@@ -11,13 +11,13 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 
-
+author: 
+  name: kang Yu
+  email: ""
 
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 
 
-author: 
-  name: kang Yu
