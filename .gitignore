@@ -2,6 +2,7 @@
 _site
 .sass-cache
 =======
+public
 # History files
 .Rhistory
 .Rapp.history
@@ -48,6 +49,9 @@ docs/
 
 # translation temp files
 po/*~
+.DS_Store
+Thumbs.db
+.hugo_build.lock
 
 # RStudio Connect folder
 rsconnect/
