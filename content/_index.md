@@ -10,7 +10,8 @@ sections:
 
       The **TUM Precision Agriculture Lab** has been a center of excellence for smart farming research, teaching, and practice since its founding in 2020.
     title: |
-      Precision Agriculture Lab
+      Precision 
+      Agriculture Lab
 - block: collection
   content:
     count: 5
