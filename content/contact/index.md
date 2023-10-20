@@ -23,9 +23,9 @@ sections:
       netlify:
         captcha: false
       provider: netlify
-    office_hours:
+    office_hours: visit
     - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
+    - Tuesday 09:00 to 10:00
     phone: 888 888 88 88
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus
       augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor
