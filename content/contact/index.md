@@ -4,19 +4,19 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
-    appointment_url: https://calendly.com
+      city: Freising
+      country: Germany
+      country_code: DE
+      postcode: "85354"
+      region: Bavaria
+      street: Dürnast 9
+    appointment_url: https://calendly.com/tum-pa
     autolink: true
     coordinates:
-      latitude: "37.4275"
-      longitude: "-122.1697"
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+      latitude: "48.4056883"
+      longitude: "11.6904669"
+    directions: Enter Building 1 and take the stairs to Office 1.11 on Floor 2
+    email: pag@ls.tum.de
     form:
       formspree:
         id: null
