@@ -23,10 +23,10 @@ sections:
       netlify:
         captcha: false
       provider: netlify
-    office_hours: visit
+    office_hours:
     - Monday 10:00 to 13:00
     - Tuesday 09:00 to 10:00
-    phone: +49 816171 5001
+    phone: 0049 81 6171 5001
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus
       augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor
       ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus
