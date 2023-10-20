@@ -26,7 +26,7 @@ sections:
     office_hours: visit
     - Monday 10:00 to 13:00
     - Tuesday 09:00 to 10:00
-    phone: 888 888 88 88
+    phone: +49 816171 5001
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus
       augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor
       ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus
