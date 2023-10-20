@@ -8,10 +8,9 @@ sections:
     text: |
       <br>
 
-      The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      The **TUM Precision Agriculture Lab** has been a center of excellence for smart farming research, teaching, and practice since its founding in 2020.
     title: |
-      Wowchemy
-      Research Group
+      Precision Agriculture Lab
 - block: collection
   content:
     count: 5
