@@ -44,7 +44,7 @@ sections:
   design:
     background:
       image:
-        filename: contact.jpg
+        filename: pa_christmas2022.jpg
         filters:
           brightness: 1
         parallax: false
