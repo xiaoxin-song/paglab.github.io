@@ -15,7 +15,7 @@ sections:
     coordinates:
       latitude: "48.4056883"
       longitude: "11.6904669"
-    directions: Enter yellow door to the leaf and take the stairs to the 2nd Floor
+    directions: Enter through the yellow door, pass the seminar room on the left, and then take the stairs to the 2nd Floor
     email: pag@ls.tum.de
     form:
       formspree:
