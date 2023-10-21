@@ -15,7 +15,7 @@ sections:
     coordinates:
       latitude: "48.4056883"
       longitude: "11.6904669"
-    directions: Enter Building 1 and take the stairs to Office 1.11 on Floor 2
+    directions: Enter yellow door to the leaf and take the stairs to the 2nd Floor
     email: pag@ls.tum.de
     form:
       formspree:
