@@ -1,2 +1,2 @@
 # https://paglab.org
-TUM Precision Agriculture Lab website.
+This is the repo for the TUM Precision Agriculture Lab's website.
