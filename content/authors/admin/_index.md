@@ -1,4 +1,6 @@
 ---
+authors:
+- Kang Yu
 bio: My research interests include precision crop farming, hyperspectral remote sensing, and AI in agriculture.
 
 education:
@@ -38,11 +40,10 @@ social:
   icon_pack: fab
   link: https://github.com/kang-yu
 superuser: true
-title: Kang Yu 于康
+title: Kang Yu
 user_groups:
 - Principal Investigators
 - Researchers
 ---
 
-Kang Yu is a professor of Precison Agriculture at the TUM Precision Ag Lab. His research interests include crop field phenotyping, precision crop nutrient mangement, and vegetation remote sensing. 
-He leads the Precision Agriculture group, which develops sensing and computational methods to phenotype plant traits and to monitor crop stress, nutrition response, and yield across scales using UAV and satellite remote sensing data.
+Kang Yu is a professor of Precison Agriculture at the TUM Precision Ag Lab. His research interests include crop field phenotyping, precision crop nutrient mangement, and vegetation remote sensing. He leads the Precision Agriculture group, which develops sensing and computational methods to phenotype plant traits and to monitor crop stress, nutrition response, and yield across scales using UAV and satellite remote sensing data.
