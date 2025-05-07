@@ -1,0 +1,70 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Spectral Vegetation Indices to Track Senescence Dynamics in Diverse Wheat Germplasm
+subtitle: ''
+summary: ''
+authors:
+- Jonas Anderegg
+- Kang Yu
+- Helge Aasen
+- Achim Walter
+- Frank Liebisch
+- Andreas Hund
+tags:
+- field-based phenotyping
+- hyperspectral remote sensing
+- Canopy reflectance
+- Feature Selection
+- high-throughput phenotyping
+categories: []
+date: '2020-01-01'
+lastmod: 2025-05-07T21:24:29+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2025-05-07T19:24:29.123265Z'
+publication_types:
+- '2'
+abstract: The ability of a genotype to stay green affects the primary target traits
+  grain yield (GY) and grain protein concentration (GPC) in wheat. High throughput
+  methods to assess senescence dynamics in large field trials will allow for i) indirect
+  selection in early breeding generations, when yield cannot yet be accurately determined
+  and ii) mapping of the genomic regions controlling the trait. The aim of this study
+  was to develop a robust method to assess senescence based on hyperspectral canopy
+  reflectance. Measurements were taken in three years throughout the grain filling
+  phase on textgreater300 winter wheat varieties in the spectral range from 350 to
+  2500 nm using a spectroradiometer. We compared the potential of spectral indices
+  (SI) and full-spectrum models to infer visually observed senescence dynamics from
+  repeated reflectance measurements. Parameters describing the dynamics of senescence
+  were used to predict GY and GPC and a feature selection algorithm was used to identify
+  the most predictive features. The three-band plant senescence reflectance index
+  (PSRI) approximated the visually observed senescence dynamics best, whereas full-spectrum
+  models suffered from a strong year-specificity. Feature selection identified visual
+  scorings as most predictive for GY, but also PSRI ranked among the most predictive
+  features while adding additional spectral features had little effect. Visually scored
+  delayed senescence was positively correlated with GY ranging from r = 0.173 in 2018
+  to r = 0.365 in 2016. It appears that visual scoring remains the gold standard to
+  quantify leaf senescence in moderately large trials. However, using appropriate
+  phenotyping platforms, the proposed index-based parameterization of the canopy reflectance
+  dynamics offers the critical advantage of upscaling to very large breeding trials.
+publication: '*Frontiers in Plant Science*'
+doi: 10.3389/fpls.2019.01749
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/fpls.2019.01749/full
+---
