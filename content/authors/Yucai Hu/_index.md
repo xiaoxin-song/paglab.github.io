@@ -39,7 +39,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: false
-title: Yuncai Hu
+title: Yuncai Hu 胡
 user_groups:
 - Researchers
 
