@@ -17,7 +17,7 @@ first_name: Kang
 highlight_name: false
 interests:
 - vegetation remote sensing
-- field crop phenotyping
+- crop field phenotyping
 - precision crop nutrient management
 last_name: Yu
 organizations:
@@ -38,8 +38,9 @@ social:
   icon_pack: fab
   link: https://github.com/kang-yu
 superuser: true
-title: Kang Yu
+title: Kang Yu 于康
 user_groups:
+- Principal Investigators
 - Researchers
 ---
 
