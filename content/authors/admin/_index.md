@@ -1,48 +1,47 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include precision crop farming, hyperspectral remote sensing, and AI in agriculture.
+
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Physical Geography
+    institution: University of Cologne
+    year: 2014
+  - course: MSc in Plant Nutrition
+    institution: China Agricultural University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Agricultural Resource and Environmental Sciences
+    institution: China Agricultural University
+    year: 2007
 email: ""
-first_name: Nelson
+first_name: Kang
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- vegetation remote sensing
+- field crop phenotyping
+- precision crop nutrient management
+last_name: Yu
 organizations:
-- name: Stanford University
+- name: Technical University of Munich
   url: ""
-role: Professor of Artificial Intelligence
+role: Professor of Precision Agriculture
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:test@example.org
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/PrecisionAgLab
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=atIbrIsAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kang-yu
 superuser: true
-title: Nelson Bighetti
+title: Kang Yu
 user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kang Yu is a professor of Precison Agriculture at the TUM Precision Ag Lab. His research interests include crop field phenotyping, precision crop nutrient mangement, and vegetation remote sensing. 
+He leads the Precision Agriculture group, which develops sensing and computational methods to phenotype plant traits and to monitor crop stress, nutrition response, and yield across scales using UAV and satellite remote sensing data.
