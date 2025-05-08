@@ -1,6 +1,6 @@
 ---
 authors:
-- 吳飞
+- 小鑫
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
