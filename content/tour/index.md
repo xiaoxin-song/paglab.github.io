@@ -29,7 +29,7 @@ sections:
       background:
         color: '#333'
         image:
-          filename: welcome_drone.jpg
+          filename: m350_afx_field.jpeg
           filters:
             brightness: 0.5
         position: center
