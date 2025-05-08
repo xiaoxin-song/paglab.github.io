@@ -8,7 +8,7 @@ sections:
       background:
         color: '#666'
         image:
-          filename: coders.jpg
+          filename: duernast9_autumn.jpg
           filters:
             brightness: 0.7
         position: right
