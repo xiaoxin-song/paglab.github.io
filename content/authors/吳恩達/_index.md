@@ -1,6 +1,6 @@
 ---
 authors:
-- 吳恩達
+- 吳飞
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
