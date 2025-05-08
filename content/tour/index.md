@@ -29,17 +29,17 @@ sections:
       background:
         color: '#333'
         image:
-          filename: welcome.jpg
+          filename: welcome_drone.jpg
           filters:
             brightness: 0.5
         position: center
-      content: Just opened last month!
+      content: Just waiting for you!
       link:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
         url: ../contact/
-      title: World-Class Semiconductor Lab
+      title: Your Smartfarming Lab
   design:
     interval: 2000
     is_fullscreen: true
